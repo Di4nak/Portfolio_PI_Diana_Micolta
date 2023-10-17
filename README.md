@@ -1,0 +1,1 @@
+Proyecto de react three fiber. Creado con fines academicos.
